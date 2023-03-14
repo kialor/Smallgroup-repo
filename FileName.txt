@@ -10,3 +10,7 @@ Git stash creates a temporary save of the modified files. It doesn't save the ch
 
 Git push sends the new files or changes made to the remote repo.
 
+# git pull
+
+Git pull fetches and pmerges the changes on the remote repo to the local repo
+
