@@ -5,3 +5,8 @@ Git init creates a new local repo in the directory you are currently in.
 # git stash
 
 Git stash creates a temporary save of the modified files. It doesn't save the changes and cannot be pushed to remote repos.
+
+# git push
+
+Git push sends the new files or changes made to the remote repo.
+
