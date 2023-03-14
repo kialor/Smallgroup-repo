@@ -1,0 +1,4 @@
+# git init
+
+Git init creates a new local repo in the directory you are currently in.
+
